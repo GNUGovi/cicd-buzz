@@ -1,2 +1,2 @@
-# cici-buzz
+# cicd-buzz
 Test projects for CICD integration
